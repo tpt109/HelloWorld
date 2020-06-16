@@ -1,0 +1,17 @@
+{
+  "name": "HelloWorld",
+  "version": "0.0.1",
+  "description": "HelloWorld",
+  "cordova": {
+    "id": "cordova-plugin-hello-world",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "toantp1",
+  "license": "ISC"
+}
